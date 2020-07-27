@@ -18,3 +18,5 @@ Problem statement can be found at https://www.spoj.com/PSUT05/problems/SCAVHUNT/
 
     PathFinder.executeTest(input);
     
+## Output
+![Output](output.png)
